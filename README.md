@@ -1,0 +1,3 @@
+# Certificaci-n_Oracle_Cloud_Infrastructure_gesti-n_datos_seguridad_gobernanza
+Certificación Oracle Cloud Infrastructure: gestión de datos, seguridad y gobernanza
+Certificación_Oracle_Cloud_Infrastructure_gestión_datos_seguridad_gobernanza
